@@ -91,7 +91,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Project Lead:** Your Name ([your.email@example.com](mailto:your.email@example.com))
+- **Project memeber:** Shiva ganesh mummadi (23N81A6659)
+-                   ** harshith reddy (23N81A6657)
+-                   ** Amaresh K (23N81A6660)
 - **GitHub Issues:** [Issues](https://github.com/yourusername/study-resources-finder/issues)
 
 ---

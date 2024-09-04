@@ -1,6 +1,3 @@
-Here's an updated README with some emojis to make it more engaging:
-
----
 
 # 📚 Study Resources Finder App
 

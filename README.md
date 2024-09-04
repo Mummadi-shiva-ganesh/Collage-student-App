@@ -4,8 +4,6 @@ Here's an updated README with some emojis to make it more engaging:
 
 # 📚 Study Resources Finder App
 
-![Logo](path-to-your-logo.png)
-
 ## 📝 Overview
 
 The **Study Resources Finder App** is a platform designed to help college students easily locate study resources tailored to their specific courses and subjects. By consolidating various materials such as lecture notes, textbooks, online articles, and video tutorials, this app aims to enhance students' learning experience by providing them with all the tools they need in one place.
